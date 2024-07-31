@@ -40,8 +40,7 @@ Você pode visualizar uma demonstração do projeto em [Link para a página ao v
     ```
 
 3. Abra o arquivo `index.html` em um navegador para visualizar o projeto.
-
-4. Edite os arquivos conforme necessário para personalizar o conteúdo e o estilo.
+4. Ou copie o link para ver o projeto no ar `https://aleckdevv.github.io/AleckDevv-login-rocketseat.github.io/`
 
 ## Contribuições
 
